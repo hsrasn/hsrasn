@@ -1,4 +1,4 @@
-## Hi there 👋
+I am a student of Information Technology, specializing in design, analysis, and programming. I create websites as a hobby and I practice everything I learn. I am also interested in exploring how teamwork works and I possess strong leadership and teamwork skills.
 
 <!--
 **hsrasn/hsrasn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
